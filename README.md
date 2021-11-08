@@ -7,7 +7,7 @@ Vue project to simulate M-league style stats line chart
 
 ## Overview
 
-This project is a single page web application to simulate M-league[^1] style line chart for results.
+This project is a single page web application to simulate M-league[^1] style line chart results.
 
 [^1]: M-league: A Mahjong TV series distributed by Abema.tv. 32 Japanese Mahjong professionals were divided into 8 teams and play a tournament league. 
 
